@@ -28,16 +28,17 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 - Try running the games using the shortcut on the Winlator home screen, there you can define individual settings for each game.
 - To speed up the installers, try changing the Box86/Box64 preset to Intermediate in Container Settings -> Advanced Tab.
 
-# Credits and Third-party apps
+# Credits and Third-party apps💘 
 - Ubuntu RootFs ([Focal Fossa](https://releases.ubuntu.com/focal))
 - Wine ([winehq.org](https://www.winehq.org/))
 - Box86/Box64 by [ptitseb](https://github.com/ptitSeb)
 - PRoot ([proot-me.github.io](https://proot-me.github.io))
+- Vortek ([github.com/brunosx](https://github.com/brunodev85))
 - Mesa (Turnip/Zink/VirGL) ([mesa3d.org](https://www.mesa3d.org))
 - DXVK ([github.com/doitsujin/dxvk](https://github.com/doitsujin/dxvk))
 - VKD3D ([gitlab.winehq.org/wine/vkd3d](https://gitlab.winehq.org/wine/vkd3d))
 - D8VK ([github.com/AlpyneDreams/d8vk](https://github.com/AlpyneDreams/d8vk))
 - CNC DDraw ([github.com/FunkyFr3sh/cnc-ddraw](https://github.com/FunkyFr3sh/cnc-ddraw))
 
-Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.
-Thank you to all the people who believe in this project.
+Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Succubussix](https://github.com/Succubussix/winlator-bionic-glibc/releases) (Who and their team has committed to bionic),  [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.
+Thank you to all the people who believe in this project! 🌷
