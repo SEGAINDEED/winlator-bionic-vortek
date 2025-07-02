@@ -42,3 +42,47 @@ Winlator is an Android application that lets you to run Windows (x86_64) applica
 
 Many thanks to [ptitSeb](https://github.com/ptitSeb) (Box86/Box64), [Succubussix](https://github.com/Succubussix/winlator-bionic-glibc/releases) (Who and their team has committed to bionic),  [Danylo](https://blogs.igalia.com/dpiliaiev/tags/mesa/) (Turnip), [alexvorxx](https://github.com/alexvorxx) (Mods/Tips) and others.
 Thank you to all the people who believe in this project! 🌷
+
+---
+
+# Visual Proof of Vortek Extraction and FPS Gains
+
+<p align="center">
+  <img src="screenshots/01_comment_defense.jpg" width="700"/><br/>
+  <i>Thank you too Snipedzoi for showing common sense unlike everyone else: "Seems to be the reverse engineering project of Vortek..."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="screenshots/02_turnip_low_fps.jpg" width="700"/><br/>
+  <i>FPS using Turnip (10.1 FPS) “ GPU overhead in main menu.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="screenshots/03_driver_list.jpg" width="700"/><br/>
+  <i>Driver list showing Bionic + Vortek Renderer Drivers available.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="screenshots/04_turnip_driver_menu.jpg" width="700"/><br/>
+  <i>Turnip selected “ Mesa Driver menu showing standard config.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="screenshots/05_vortek_driver_menu.jpg" width="700"/><br/>
+  <i>Vortek selected “ shows correct Vulkan extension listing and setup.</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="screenshots/06_fps_boost_vortek.jpg" width="700"/><br/>
+  <i>FPS using Vortek (56.1 FPS)“ 5x gain in same scene.</i>
+</p>
